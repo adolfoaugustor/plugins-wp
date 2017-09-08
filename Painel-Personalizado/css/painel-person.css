@@ -5,3 +5,9 @@
     background-repeat: no-repeat;
     background-position: -78px -87px;
 }
+#icons a img{
+	max-width: 128px;
+}
+#icons a img{
+	width: 100%;
+}
